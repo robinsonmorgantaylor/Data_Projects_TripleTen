@@ -1,5 +1,4 @@
-# File Title: Fresh Beats Status Report
-
+# Fresh Beats Status Report
 This was a junior-level project to turn an analysis into a report presentation.
 
 Fresh Beats is a music streaming platform catering to listeners and up-and-coming musicians. It offers music streaming and helps new artists gain exposure through promotional services. The platform faces challenges in optimizing these areas:
