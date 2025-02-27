@@ -7,8 +7,7 @@ Fresh Beats is a music streaming platform catering to listeners and up-and-comin
 * Converting free listeners into paying subscribers.
 * Recommending music effectively, especially in highlighting new artists in relevant genres.
 
-
-Image of Project Status Report
+<img src="https://github.com/robinsonmorgantaylor/Data_Projects_TripleTen/blob/main/Images/Fresh%20Beats.png">
 
 Google Doc Report can be found [here](https://docs.google.com/document/d/1D2QL5CbPqPeZumpeZJ8qDYePJ6XyjFjOuntx-DwOiI0/edit?usp=sharing).
 
