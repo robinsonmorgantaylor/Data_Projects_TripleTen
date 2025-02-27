@@ -1,0 +1,10 @@
+Fresh Beats Project Requirements:
+
+	- Use the Fresh Beats user data to complete the report template.
+	- Include corresponding visuals from the dataset spreadsheet.
+	- Choose key insights for each visualization.
+	- Relate insights to the business challenges.
+	- Choose recommendations for each visualization.
+	- Relate recommendations to the business challenges.
+	- Complete the Project Summary and Conclusion sections.
+	- Maintain consistent text formatting.
