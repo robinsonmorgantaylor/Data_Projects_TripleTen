@@ -2,7 +2,7 @@
 
 This was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
-[<img src="https://github.com/robinsonmorgantaylor/Data_Projects_TripleTen/blob/main/Images/E-commerce%20Company.JPG">]
+<img src="https://github.com/robinsonmorgantaylor/Data_Projects_TripleTen/blob/main/Images/E-commerce%20Company.JPG">
 
 Google Speadsheet can be found Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/111JNT17lCph2WHiEuLnt8sw5HPZGxxctehhumwqEi3o/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
