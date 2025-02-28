@@ -1,0 +1,21 @@
+
+Part 1: Conversion Funnel
+	- Create a pivot table to analyze user interaction stages; include 3 stages in the funnel.
+	- Count unique users for each stage.
+	- Calculate total conversion rates and conversion rates to the next step.
+
+Part 2: Cohort Analysis Data Preparation
+	- Filter purchases
+	- Calculate first purchase dates
+	- Set up monthly data to build and track cohorts
+
+Part 3: Calculate Retention Rates
+	- Group data into cohorts
+	- Calculate overall retention rates
+
+Part 4: Organize and Document Spreadsheet
+	- Update executive summary
+	- Fill in the results and analysis sections
+	- Reorder sheets
+	- Update sheet formatting
+	- Project submmission
