@@ -16,7 +16,7 @@ This was an independent project designed to showcase what I have learned in SQL.
 | Section Title | Description |
 | ----------- |----------- |
 | [Description](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber)#process) | A general outline of how this project formed from start to finish. |
+| [Process](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber#process) | A general outline of how this project formed from start to finish. |
 | [Data](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber#data) | Describes the source of data, including files, tables, and fields. |
 | [Assumptions](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | [Findings](https://github.com/robinsonmorgantaylor/Data_projects_TripleTen/tree/main/Zuber#findings) | Insights learned from the data analysis. |
