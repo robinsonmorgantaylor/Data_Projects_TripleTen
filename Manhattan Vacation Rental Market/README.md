@@ -5,7 +5,7 @@ This was an independent project designed to showcase what I have learned about A
 
 <img src="https://github.com/robinsonmorgantaylor/Data_Projects_TripleTen/blob/main/Images/Manhattan%20Vacation%20Rental%20Market.JPG">
 
-Projects Google Speadsheet can be found <[here]> (https://docs.google.com/spreadsheets/d/1PGt1ZiXeeSIbiQAMnrFfBRbfDQmQ3ivN/edit?usp=sharing&ouid=105183039428935277946&rtpof=true&sd=true)
+Projects Google Speadsheet can be found here: https://docs.google.com/spreadsheets/d/1PGt1ZiXeeSIbiQAMnrFfBRbfDQmQ3ivN/edit?usp=sharing&ouid=105183039428935277946&rtpof=true&sd=true
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
