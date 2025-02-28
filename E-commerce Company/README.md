@@ -4,7 +4,7 @@ This was an independent project designed to showcase what I have learned in Busi
 
 <img src="https://github.com/robinsonmorgantaylor/Data_Projects_TripleTen/blob/main/Images/E-commerce%20Company.JPG">
 
-Google Speadsheet can be found Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/111JNT17lCph2WHiEuLnt8sw5HPZGxxctehhumwqEi3o/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/111JNT17lCph2WHiEuLnt8sw5HPZGxxctehhumwqEi3o/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
